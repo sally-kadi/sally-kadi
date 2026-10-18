@@ -1,8 +1,6 @@
 Hi, I’m Sally Kadi 
 
- Management Information Systems (MIS) Student
- Aspiring Web Developer
-📍 Lebanon
+ Management Information Systems (MIS) Student | Aspiring Web Developer 📍 Lebanon
 
  About Me
 
