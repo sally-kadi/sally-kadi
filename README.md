@@ -1,16 +1,16 @@
 Hi, I’m Sally Kadi 👋
 
-🎓 Management Information Systems (MIS) Student
-💻 Aspiring Web Developer
+ Management Information Systems (MIS) Student
+ Aspiring Web Developer
 📍 Lebanon
 
-👩‍💻 About Me
+ About Me
 
 I’m a Management Information Systems student interested in web development and technology.
 
 I’m currently improving my skills through courses, internships, and hands-on projects. I enjoy learning new technologies and building websites that are simple, useful, and user-friendly.
 
-🛠️ Skills
+ Skills
 
 * HTML
 * CSS
@@ -21,7 +21,7 @@ I’m currently improving my skills through courses, internships, and hands-on p
 * Microsoft Access
 * Git & GitHub
 
-🚀 Currently Learning
+ Currently Learning
 
 * Full-Stack Web Development
 * JavaScript
@@ -29,26 +29,26 @@ I’m currently improving my skills through courses, internships, and hands-on p
 * Git & GitHub
 * Building real-world web projects
 
-📂 Projects
+ Projects
 
-🍽️ QR Menu Website
+QR Menu Website
 
 A responsive restaurant QR menu website built as part of a web development task.
 
 Technologies: HTML, CSS
 
-🌐 Web Development Projects
+ Web Development Projects
 
 More projects coming soon as I continue learning and building.
 
-🎯 Goals
+ Goals
 
 * Become a skilled Web Developer
 * Build real-world projects
 * Gain professional experience
 * Continue learning and improving my technical skills
 
-📫 Connect With Me
+ Connect With Me
 
 * LinkedIn: Sally Kadi
 * GitHub: Sally Kadi
