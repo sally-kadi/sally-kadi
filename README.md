@@ -1,67 +1,66 @@
-Hi, I’m Sally Kadi 
+# Hi, I'm Sally Kadi 👋
 
- Management Information Systems (MIS) Student | Aspiring Web Developer 📍 Lebanon
+### Junior Full-Stack Web Developer | MIS Student
 
- About Me
+📍 Lebanon | 💻 Web Development Intern at Violet Programming
 
-I’m a Management Information Systems student interested in web development and technology.
+I'm passionate about building responsive, user-friendly, and database-driven web applications. I enjoy solving real-world problems through practical web development projects.
 
-I’m currently improving my skills through courses, internships, and hands-on projects. I enjoy learning new technologies and building websites that are simple, useful, and user-friendly.
+### 👩‍💻 About Me
 
- Skills
+- 🎓 Management Information Systems (MIS) Student
+- 💼 Web Development Intern at Violet Programming
+- 🌱 Currently developing my Full-Stack Web Development skills
+- 🚀 Open to junior developer opportunities and projects
 
-* HTML
-* CSS
-* PHP
-* SQL
-* MySQL
-* Microsoft Excel
-* Microsoft Access
-* Git & GitHub
+### 🛠️ Technical Skills
 
- Currently Learning
+**Frontend:** HTML, CSS, JavaScript
 
-* Full-Stack Web Development
-* JavaScript
-* APIs
-* Git & GitHub
-* Building real-world web projects
+**Backend:** PHP
 
- Projects
+**Database:** MySQL, SQL, phpMyAdmin
 
-QR Menu Website
+**Tools:** Git, GitHub, VS Code, XAMPP
 
-A responsive restaurant QR menu website built as part of a web development task.
+**Other:** Microsoft Excel, Microsoft Access
 
-Technologies: HTML, CSS
+### 🚀 Featured Projects
 
- Web Development Projects
+**☕ Brew Co. QR Menu**
 
-More projects coming soon as I continue learning and building.
+A database-driven digital coffee shop menu with an admin dashboard for managing categories, products, prices, images, and availability.
 
- Goals
+**Technologies:** PHP, MySQL, HTML, CSS
 
-* Become a skilled Web Developer
-* Build real-world projects
-* Gain professional experience
-* Continue learning and improving my technical skills
+[View Project on GitHub](https://github.com/sally-kadi/QR-Menu)
 
- Connect With Me
+**🌐 Business Portfolio Website**
 
-* LinkedIn: https://www.linkedin.com/in/sally-kadi-03865934b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-* GitHub: https://github.com/sally-kadi
+A business website featuring database-driven content, services, a portfolio gallery, FAQ section, and JavaScript filtering.
 
-<!--
-**sally-kadi/sally-kadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+[View Project on GitHub](https://github.com/sally-kadi/business-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Yehia's Career Path**
+
+A Next.js project featuring application routing, dynamic opportunity pages, and shared navigation.
+
+**Technologies:** Next.js, React
+
+[View Project on GitHub](https://github.com/sally-kadi/yehia-career-path)
+
+### 🌍 My Portfolio
+
+[Visit My Personal Portfolio](https://sally-kadi.github.io/sally-portfolio/)
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sally-kadi/)
+- [GitHub](https://github.com/sally-kadi)
+- [Portfolio](https://sally-kadi.github.io/sally-portfolio/)
+
+---
+
+*Always learning, building, and improving.*
