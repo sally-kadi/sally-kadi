@@ -4,63 +4,74 @@
 
 📍 Lebanon | 💻 Web Development Intern at Violet Programming
 
-I'm passionate about building responsive, user-friendly, and database-driven web applications. I enjoy solving real-world problems through practical web development projects.
+I'm an aspiring Full-Stack Web Developer passionate about building responsive, user-friendly, and database-driven web applications.
+
+I enjoy turning ideas into functional websites, solving technical problems, and continuously improving my development skills through hands-on projects.
 
 ### 👩‍💻 About Me
 
-- 🎓 Management Information Systems (MIS) Student
+- 🎓 Studying Management Information Systems (MIS) at Lebanese University
 - 💼 Web Development Intern at Violet Programming
-- 🌱 Currently developing my Full-Stack Web Development skills
-- 🚀 Open to junior developer opportunities and projects
+- 🛠️ Building practical projects using PHP, MySQL, HTML, and CSS
+- 🌱 Expanding my knowledge of JavaScript, React, and Next.js
+- 🚀 Open to Junior Web Developer, Junior Full-Stack Developer, and internship opportunities
 
 ### 🛠️ Technical Skills
 
-**Frontend:** HTML, CSS, JavaScript
+**Frontend:** HTML5, CSS3, Basic JavaScript
 
 **Backend:** PHP
 
-**Database:** MySQL, SQL, phpMyAdmin
+**Databases:** MySQL, SQL, phpMyAdmin
 
 **Tools:** Git, GitHub, VS Code, XAMPP
 
-**Other:** Microsoft Excel, Microsoft Access
+**Additional Exposure:** React, Next.js, TypeScript
 
 ### 🚀 Featured Projects
 
-**☕ Brew Co. QR Menu**
+#### ☕ Brew Co. QR Menu
 
-A database-driven digital coffee shop menu with an admin dashboard for managing categories, products, prices, images, and availability.
+A full-stack digital coffee shop menu with a PHP/MySQL admin dashboard for managing categories, menu items, images, prices, and availability.
 
-**Technologies:** PHP, MySQL, HTML, CSS
+**Tech Stack:** PHP, MySQL, HTML, CSS
 
-[View Project on GitHub](https://github.com/sally-kadi/QR-Menu)
+[View Source Code](https://github.com/sally-kadi/brew-co-qr-menu)
 
-**🌐 Business Portfolio Website**
+#### 🌐 Business Portfolio Website
 
-A business website featuring database-driven content, services, a portfolio gallery, FAQ section, and JavaScript filtering.
+A database-driven business website featuring responsive sections, services, a portfolio gallery, FAQ content, and interactive filtering.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
 
-[View Project on GitHub](https://github.com/sally-kadi/business-portfolio)
+[View Source Code](https://github.com/sally-kadi/business-portfolio)
 
-**💻 Yehia's Career Path**
+#### ⚔️ ASTA Preparation Dashboard
 
-A Next.js project featuring application routing, dynamic opportunity pages, and shared navigation.
+An interactive task management dashboard with task completion, undo functionality, and automatically calculated progress percentages.
 
-**Technologies:** Next.js, React
+**Tech Stack:** TypeScript, React / Next.js
 
-[View Project on GitHub](https://github.com/sally-kadi/yehia-career-path)
+[View Source Code](https://github.com/sally-kadi/asta-preparation-dashboard)
+
+#### 💻 Yehia's Career Path
+
+A Next.js career exploration project featuring dynamic routing, nested layouts, opportunity pages, and dashboard navigation.
+
+**Tech Stack:** Next.js, React, TypeScript
+
+[View Source Code](https://github.com/sally-kadi/yehia-career-path)
 
 ### 🌍 My Portfolio
 
+Explore my projects, technical skills, and web development experience.
+
 [Visit My Personal Portfolio](https://sally-kadi.github.io/sally-portfolio/)
 
-### 📫 Connect With Me
+### 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sally-kadi/)
+- [LinkedIn](https://www.linkedin.com/in/sally-kadi-03865934b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - [GitHub](https://github.com/sally-kadi)
-- [Portfolio](https://sally-kadi.github.io/sally-portfolio/)
+- [Portfolio](https://sally-kadi.github.io/sally-portfolio)
 
----
-
-*Always learning, building, and improving.*
+*Always learning, building, and improving — one project at a time.* 🚀
